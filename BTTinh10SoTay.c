@@ -1,11 +1,13 @@
-// Viet chuong trinh hien thi tong tien 10 cuon so tay, biet gia moi cuôn la 500 va nhan ngay 20-11 nha sach giam 20% tong tien moi don hang.
+// Viết chương trình hiển thị tổng tiền 10 cuốn sổ tay, biết giá mỗi cuôn sổ là 500 và nhân ngày 20-11 nhà sách giảm 20% tổng tiền mỗi đơn hàng.
 
 #include<stdio.h>
-//Tong (S) tien 10 cuon so tay.
+
+// Tổng (S) tiền 10 cuốn sổ tay.
+
 int main(){
-    int S,N; // Khai bao bien S.
-    S = (500 * 10); // Tinh tong 10 cuon so tay giá goc.
-    N = S -(S* 20 / 100); //Tinh tong 10 cuon so tay sau khi giam gia 20%.
-    printf("Tong tien 10 cuon so tay gia goc la: %d",S); //In ra tong 10 cuon so tay gia goc.
-    printf("\nTong tien 10 cuon so tay sau khi giam 20%% la: %d", N); // In ra tong so tien sau khi giam 20%.
+    int S,N; // Khai báo biến S.
+    S = (500 * 10); // Tính tổng 10 cuốn sổ tay giá gốc.
+    N = S -(S* 20 / 100); // Tính tổng 10 cuốn sổ tay sau khi giảm giá 20%.
+    printf("Tong tien 10 cuon so tay gia goc la: %d",S); // In ra tổng 10 cuốn sổ tay giá gốc.
+    printf("\nTong tien 10 cuon so tay sau khi giam 20%% la: %d", N); // In ra tổng số tiền sau khi giảm 20%.
 }
