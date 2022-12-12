@@ -12,7 +12,7 @@
  
  
 2. Bài tập lập trình Cấu trúc điều kiện (if, switch). (https://hoctructuyencntt.github.io/NNLT/Baitap.html)
-2.1  Bài 1: https://jdoodle.com/a/5B1V
-2.2  Bài 2: https://jdoodle.com/a/5B1T
-2.3  Bài 3: https://jdoodle.com/a/5B2D
-2.4  Bài 4: https://jdoodle.com/a/5B2m
+-  Bài 1: https://jdoodle.com/a/5B1V
+-  Bài 2: https://jdoodle.com/a/5B1T
+-  Bài 3: https://jdoodle.com/a/5B2D
+-  Bài 4: https://jdoodle.com/a/5B2m
