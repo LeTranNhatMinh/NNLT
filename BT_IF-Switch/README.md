@@ -5,7 +5,7 @@
 
 ## Thực hành :
 1. Bài 3 : https://hoctructuyencntt.github.io/NNLT/Bai03.htm
-<h6>  Bài 3.1: jdoodle.com/a/5Awu </h6>
+<h6>  Bài 3.1: <a>jdoodle.com/a/5Awu </a> </h6>
 1.2  Bài 3.2: jdoodle.com/a/5AwJ
 1.3  Bài 3.3: jdoodle.com/a/5Axe
 1.4  Bài 3.4: jdoodle.com/a/5Axe
