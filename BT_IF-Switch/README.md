@@ -1,4 +1,4 @@
-# Bài tập môn Ngôn Ngữ Lập Trình 
+# Bài tập IF ELSE SWITCH
 
 ## Lý thuyết :
 1. [Bài 3](https://hoctructuyencntt.github.io/NNLT/Bai03.html)
