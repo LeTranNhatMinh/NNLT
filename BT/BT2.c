@@ -42,14 +42,16 @@ int main(){
         	        
         	        case 9:
         	        printf("nine\n");break;
+        	        
+        	        default :
+        	        
+        	        if ( a > 9 && a % 2 == 0) printf("even\n");
+        	        
+                    else if ( a > 9 && a % 2 != 0) printf("odd\n");
             }
-            if ( a > 9 && a % 2 == 0) printf("even\n");
-            else if ( a > 9 && a % 2 != 0) printf("odd\n");
             a++;
         }
     }
     else printf("Nhap sai vui long nhap lai.");
 
-    
-    
 }
