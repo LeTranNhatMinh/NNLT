@@ -12,10 +12,10 @@
 
 2. [Bài tập lập trình cấu trúc lặp (for, while, do/while)](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 - [Bài 1](https://jdoodle.com/a/5D8k)
-- [Bài 2](https://jdoodle.com/a/5D8k)
-- [Bài 3](https://jdoodle.com/a/5D8n)
+- [Bài 2](https://jdoodle.com/a/5D8n)
+- [Bài 3](https://jdoodle.com/a/5D8v)
 - [Bài 4](https://jdoodle.com/a/5D8L)
-- [Bài 5](https://jdoodle.com/a/5D8L)
+- [Bài 5](https://jdoodle.com/a/5D8R)
 - [Bài 6](https://jdoodle.com/a/5D8J)
 - [Bài 7](#)
 - [Bài 8](#)
