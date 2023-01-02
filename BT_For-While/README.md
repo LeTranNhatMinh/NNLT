@@ -18,5 +18,5 @@
 - [Bài 5](https://jdoodle.com/a/5D8R)
 - [Bài 6](https://jdoodle.com/a/5D8J)
 - [Bài 7](https://jdoodle.com/a/5GDu)
-- [Bài 8](...)
+- [Bài 8] (...)
 - [Bài 9](https://jdoodle.com/a/5GDG)
