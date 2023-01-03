@@ -5,3 +5,8 @@
 
 # Bài tập ngày 26/12.
 ### [Bài 1](https://jdoodle.com/a/5FUe)
+
+
+# Bài tập ngày 03/01/2023.
+### [Bài 1](https://jdoodle.com/a/5GGS)
+
