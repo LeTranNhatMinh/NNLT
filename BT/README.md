@@ -20,3 +20,6 @@
 # Bài tập ngày 03/01/2023.
 ### [Bài 1](https://jdoodle.com/a/5GGS)
 
+# Bài tập thi kết thúc mon ngày 10/01/2023
+
+### [Bài tập](https://jdoodle.com/a/5I45)
