@@ -22,4 +22,4 @@
 
 # Bài tập thi kết thúc mon ngày 10/01/2023
 
-### [Bài tập](https://jdoodle.com/a/5I45)
+### [Bài thi](https://jdoodle.com/a/5I45)
